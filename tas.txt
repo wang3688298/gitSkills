@@ -1,2 +1,3 @@
 i is a master branch
-dev1 is a branch & simple 
+<<<<<<< HEAD
+dev1 is a branch and   simple
